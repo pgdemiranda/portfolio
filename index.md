@@ -1,8 +1,8 @@
-## Portfólio de Ciência de Dados
+# Portfólio de Ciência de Dados
 
 ---
 
-### Projetos de Ciência de Dados
+## **Projetos de Ciência de Dados**
 
 ### **1.[Segmentação de Clientes para E-Commerce](https://github.com/pgdemiranda/insiders)**
 
@@ -52,21 +52,26 @@ Ferramentas utilizadas:
 </div>
 
 ---
-[Detecção de Doenças Cardiovasculares](http://example.com/)
+### **3.[Detecção de Doenças Cardiovasculares](https://github.com/pgdemiranda/cardio_predictor)**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Previsão de Vendas com Modelos de Regressão](http://example.com/)
+### **4.[Previsão de Vendas com Modelos de Regressão](https://github.com/pgdemiranda/rossmann-sales)**
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### Projetos de Análise de Dados
-
-- [Pesquisa de Profissionais da Área de Dados](http://example.com/)
-- [Decisões com Dados para o Mercado de Motocicletas Usadas](http://example.com/)
+---
+## **Projetos de Análise de Dados**
+- [Projeto de Análise Exploratória de Dados para o Mercado Imobiliário](https://github.com/pgdemiranda/house_rocket)
+- [Pesquisa de Profissionais da Área de Dados](https://github.com/pgdemiranda/da_data_survey)
+- [Decisões com Dados para o Mercado de Motocicletas Usadas](https://github.com/pgdemiranda/data_motors)
 
 ---
-
-
-
-
----
+Ferramentas e Técnicas que domino:
+- Programação em Python para análise e ciência de dados
+- Estatística aplicada a Ciência de Dados
+- SQL (SQL Server, MySQL, PostgreSQL)
+- Machine Learning (modelos supervisionados e não-supervisionados)
+- Análise de dados e Dashboards com Microsoft Excel, Tableau, Metabase e Microsoft Power BI
+- Fluxo de trabalho com Apache Airflow
+- Versionamento com Git e GitHub
+- Inglês fluente
