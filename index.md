@@ -1,5 +1,5 @@
 # Portfólio de Ciência de Dados
-Olá, seja bem vindo(a) ao meu portfólio de projetos em Ciências de Dados. Tenho dedicado uma parte considerável do meu tempo desenvolvendo as habilidades necessárias para desenvolver soluções de ponta a ponta envolvendo dados e espero que os projetos deste portfólio possam demonstrar o meu crescimento nesses estudos. Caso haja interesse, é possível entrar em contato comigo pelo meu [**LinkedIn**](https://www.linkedin.com/in/pablo-gomes-miranda/), e examinar meus outros repositórios no [**GitHub**](https://github.com/pgdemiranda/), todos os endereços estão na barra lateral, incluindo meu e-mail pessoal.
+Olá, seja bem vindo(a) ao meu portfólio de projetos em Ciências de Dados. Tenho dedicado uma parte considerável do meu tempo desenvolvendo as habilidades necessárias para desenvolver soluções de ponta a ponta envolvendo dados e espero que os projetos deste portfólio possam demonstrar o meu crescimento nesses estudos. Caso haja interesse, é possível entrar em contato comigo pelo meu [**LinkedIn**](https://www.linkedin.com/in/pablo-gomes-miranda/), e examinar meus outros repositórios no [**GitHub**](https://github.com/pgdemiranda/). Todos os endereços estão na barra lateral, incluindo meu e-mail pessoal.
 
 
 ---
