@@ -4,26 +4,65 @@
 
 ### Projetos de Ciência de Dados
 
-[Segmentação de Clientes para E-Commerce](https://github.com/pgdemiranda/insiders)
-<img src="images/insiders_logo?raw=true"/>
+### **1.[Segmentação de Clientes para E-Commerce](https://github.com/pgdemiranda/insiders)**
+
+Projeto de clusterização para uma empresa fictícia com o propósito de criar um programa de fidelidade. A solução foi planejada utilizando um modelo RFM, considerando a recência média dos clientes desde a última compra, a responsividade, frequência das transações e o engajamento com a plataforma. Foi eleito um cluster de 86 clientes com faturamento bruto médio de US$4179,93.
+- Planejamento de segmentação com análise RFM.
+- Uso de Python para analisar os dados de 540.000 clientes.
+- Treino de um modelo de Clusterização para o agrupamento de 8 clusters.
+- Processo de ETL automatizado via AWS services e banco de dados PostgreSQL.
+
+Ferramentas utilizadas:
+1. Python 3.10.10;
+2. VS Code;
+3. Jupyter Notebook;
+4. YData-Profiling;
+5. Metabase;
+6. SQL: SQLite and PostgreSQL;
+7. Git and Github;
+8. Amazon Web Services: S3, RDS and EC2.
+
+<div align="center">
+<img src="images/insiders_logo.png?raw=true">
+</div>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### **2.[Rankeamento de Clientes para Venda de Seguros](https://github.com/pgdemiranda/health_insurance-cs)**
+
+
+- Uso de Python para tratar dados e ordenar uma lista de 127.037 clientes por propensão de compra para a venda de seguros.
+- Treinamento de modelo de Classificação de Machine Learning para um lucro mínimo de US$2.357.018,06.
+- API criada utilizando Google Sheets e JavaScript para a consulta em tempo real da equipe de venda.
+
+Ferramentas utilizadas:
+1. Python 3.10.10;
+2. VS Code;
+3. Jupyter Notebook;
+4. PostgreSQL;
+5. Git and Github;
+6. Render Cloud;
+7. Flask;
+8. Javascript;
+9. Google Sheets;
+10. Google Apps Script.
+
+
+<div align="center">
+<img src="images/sh_logo.png?raw=true">
+</div>
+
+---
+[Detecção de Doenças Cardiovasculares](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Previsão de Vendas com Modelos de Regressão](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Projetos de Análise de Dados
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Pesquisa de Profissionais da Área de Dados](http://example.com/)
+- [Decisões com Dados para o Mercado de Motocicletas Usadas](http://example.com/)
 
 ---
 
