@@ -1,11 +1,11 @@
-## Portfolio
+## Portfólio de Ciência de Dados
 
 ---
 
-### Category Name 1 
+### Projetos de Ciência de Dados
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Segmentação de Clientes para E-Commerce](https://github.com/pgdemiranda/insiders)
+<img src="images/insiders_logo?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Projetos de Análise de Dados
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,5 +31,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
