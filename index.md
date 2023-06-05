@@ -1,10 +1,12 @@
 # Portfólio de Ciência de Dados
+Olá, seja bem vindo(a) ao meu portfólio de projetos em Ciências de Dados. Tenho dedicado uma parte considerável do meu tempo desenvolvendo as habilidades necessárias para desenvolver soluções de ponta a ponta envolvendo dados e espero que os projetos deste portfólio possam demonstrar o meu crescimento nesses estudos. Caso haja interesse, é possível entrar em contato comigo pelo meu [LinkedIn](https://www.linkedin.com/in/pablo-gomes-miranda/) e [E-mail](pgdemiranda@gmail.com), e examinar meus outros repositórios no [GitHub](https://github.com/pgdemiranda/), todos os endereços estão na barra lateral.
+
 
 ---
 
 ## **Projetos de Ciência de Dados**
 
-### **1.[Segmentação de Clientes para E-Commerce](https://github.com/pgdemiranda/insiders)**
+### **1. [Segmentação de Clientes para E-Commerce](https://github.com/pgdemiranda/insiders)**
 
 Projeto de clusterização para uma empresa fictícia com o propósito de criar um programa de fidelidade. A solução foi planejada utilizando um modelo RFM, considerando a recência média dos clientes desde a última compra, a responsividade, frequência das transações e o engajamento com a plataforma. Foi eleito um cluster de 86 clientes com faturamento bruto médio de US$4.179,93.
 > 1. Planejamento de segmentação com análise RFM.
@@ -23,13 +25,15 @@ Ferramentas utilizadas:
 - Amazon Web Services: S3, RDS e EC2.
 
 <div align="center">
-<img src="images/insiders_logo.png?raw=true">
+  <a href="https://github.com/pgdemiranda/insiders">
+    <img src="images/insiders_logo.png?raw=true" alt="Logo">
+  </a>
 </div>
 
 ---
-### **2.[Rankeamento de Clientes para Venda de Seguros](https://github.com/pgdemiranda/health_insurance-cs)**
+### **2. [Rankeamento de Clientes para Venda de Seguros](https://github.com/pgdemiranda/health_insurance-cs)**
 
-Esse é um projeto de classificação para uma companhia fictícia de venda de seguros que quer realizar uma venda cruzada de produtos para a sua lista de clientes. Para orientar o time de vendas, realizamos um rankeamento dos clientes com maior propensão de compra e disponibilizamos a lista online para a consulta. Esse rankeamento garantiu uma venda de, no mínimo, US$2.357.018,06.
+Esse é um projeto de classificação para uma companhia fictícia de venda de seguros com a intenção de realizar uma venda cruzada de produtos para a sua lista de clientes. Para orientar o time de vendas, foi realizado um rankeamento dos clientes com maior propensão de compra e disponibilizado a lista online para a consulta. Esse rankeamento garantiu uma venda de, no mínimo, US$2.357.018,06.
 
 > 1. Uso de Python para tratar dados e ordenar uma lista de 127.037 clientes por propensão de compra para a venda de seguros.
 > 2. Treinamento de modelo de Classificação de Machine Learning para um lucro mínimo de US$2.357.018,06.
@@ -47,13 +51,14 @@ Ferramentas utilizadas:
 - Google Sheets;
 -  Google Apps Script.
 
-
 <div align="center">
-<img src="images/sh_logo.png?raw=true">
+  <a href="https://github.com/pgdemiranda/health_insurance-cs">
+    <img src="images/sh_logo.png?raw=true" alt="Logo">
+  </a>
 </div>
 
 ---
-### **3.[Detecção de Doenças Cardiovasculares](https://github.com/pgdemiranda/cardio_predictor)**
+### **3. [Detecção de Doenças Cardiovasculares](https://github.com/pgdemiranda/cardio_predictor)**
 
 Esse é um projeto de classificação para uma empresa fictícia que realiza diagnósticos de doenças cardiovasculares. É um projeto simples de exploração de diferentes modelos de aprendizado de máquina de classificação e de suas diferentes métricas.
 
@@ -67,11 +72,13 @@ Ferramentas utilizadas:
 - Git and Github.
 
 <div align="center">
-<img src="images/logo_cardio.png?raw=true">
+  <a href="https://github.com/pgdemiranda/cardio_predictor">
+    <img src="images/logo_cardio.png?raw=true" alt="Logo">
+  </a>
 </div>
 
 ---
-### **4.[Previsão de Vendas com Modelos de Regressão](https://github.com/pgdemiranda/rossmann-sales)**
+### **4. [Previsão de Vendas com Modelos de Regressão](https://github.com/pgdemiranda/rossmann-sales)**
 
 Esse projeto de Regressão utilizou dados de uma competição disponibilizada pela rede farmacêutica europeia Rossmann e teve como objetivo a previsão de vendas de seis semanas de todas as lojas desta farmacêutica. A previsão de vendas de um mínimo de €286.065.876,78 foi disponibilizado na nuvem no formato de um dashboard para a consulta.
 
@@ -87,8 +94,11 @@ Ferramentas utilizadas:
 - Heroku: Cloud Application Platform;
 - Telegram Messenger.
 
+
 <div align="center">
-<img src="images/ross_logo.png?raw=true">
+  <a href="https://github.com/pgdemiranda/rossmann-sales">
+    <img src="images/ross_logo.png?raw=true" alt="Logo">
+  </a>
 </div>
 
 ---
