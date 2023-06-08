@@ -105,7 +105,8 @@ Ferramentas utilizadas:
 ## **Projetos de Análise de Dados**
 1. [Análise Exploratória de Dados para o Mercado Imobiliário com Python e Streamlit](https://github.com/pgdemiranda/house_rocket)
 2. [Pesquisa de Profissionais da Área de Dados com Microsoft Power BI](https://github.com/pgdemiranda/da_data_survey)
-3. [Decisões com Dados para o Mercado de Motocicletas Usadas com Python e Streamlit](https://github.com/pgdemiranda/data_motors)
+3. [Dashboard de Pesquisa Sobre o Impacto Mundial da COVID-19 com SQL Server, Microsoft Excel e Tableau](https://github.com/pgdemiranda/da_covid_globally)
+4. [Decisões com Dados para o Mercado de Motocicletas Usadas com Python e Streamlit](https://github.com/pgdemiranda/data_motors)
 
 ---
 Essas são as ferramentas, habilidades e técnicas utilizadas durante meus estudos:
